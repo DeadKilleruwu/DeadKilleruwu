@@ -13,17 +13,6 @@ Building scalable applications while learning something new every day.
 <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,vite,postgres,supabase,git,github,vscode&perline=5" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DeadKilleruwu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeadKilleruwu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
